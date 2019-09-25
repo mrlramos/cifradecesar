@@ -1,0 +1,7 @@
+C:\Users\marlo\source\repos\Seguranca_E_Auditoria_De_Sistemas\CifraDeCesar\obj\Debug\CifraDeCesar.csprojAssemblyReference.cache
+C:\Users\marlo\source\repos\Seguranca_E_Auditoria_De_Sistemas\CifraDeCesar\obj\Debug\CifraDeCesar.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\Seguranca_E_Auditoria_De_Sistemas\CifraDeCesar\bin\Debug\CifraDeCesar.exe.config
+C:\Users\marlo\source\repos\Seguranca_E_Auditoria_De_Sistemas\CifraDeCesar\bin\Debug\CifraDeCesar.exe
+C:\Users\marlo\source\repos\Seguranca_E_Auditoria_De_Sistemas\CifraDeCesar\bin\Debug\CifraDeCesar.pdb
+C:\Users\marlo\source\repos\Seguranca_E_Auditoria_De_Sistemas\CifraDeCesar\obj\Debug\CifraDeCesar.exe
+C:\Users\marlo\source\repos\Seguranca_E_Auditoria_De_Sistemas\CifraDeCesar\obj\Debug\CifraDeCesar.pdb
